@@ -8,19 +8,24 @@
 **프리뷰 및 레코드 모드 전환**
 - 'space' 키를 이용해 프리뷰(미리보기) 모드와 레코드(녹화) 모드를 전환할 수 있습니다.
 - 녹화 모드 전환 시 왼쪽 상단에 빨간 색 원이 생기며, 해당 영상이 'FunnyCamera.avi'파일로 저장됩니다.
-![My Image](빨간 원 표시 스크랩트.jpg)
+![My Image](Frekion2002/FunnyCamera_that_likes_you/blob/main/빨간%20원%20표시%20스크립트.jpg)
 
 **적외선 기능**
 - 'tab' 키를 이용해 일반 카메라 화면과 적외선 모드 사이를 전환 할 수 있습니다.
 - 일반 카메라에는 적외선 센서가 없기 때문에 정확한 적외선 표현이 불가능합니다. 따라서 카메라가 마음대로 적외선 카메라로 전환된 것처럼 표시해주며, 녹화됩니다. 이 영상을 다른 사람에게 보여준다면 진짜 적외선 카메라인지 가짜인지 혼동을 줄 수 있는 재미있는 기능입니다.
-![My Image](적외선 표시의 스크립트.jpg)
+![My Image](Frekion2002/FunnyCamera_that_likes_you/blob/main/적외선%20표시의%20스크립트.jpg)
 
 **종료 시 메세지 표시**
 - 'ESC' 키를 누르면 종료를 요청하는 메세지가 화면에 표시됩니다.
 - 'ESC' 키를 처음 눌렀을 때와 2번째 눌렀을 때, 마지막으로 3번째 눌렀을 다 다른 재미있는 메세지가 표시됩니다.
-![My Image](ESC 한 번 눌렀을 때 메세지.jpg)
-![My Image](ESC 두 번 눌렀을 때 메세지.jpg)
-![My Image](ESC 세 번 눌렀을 때 메세지.jpg)
+- 첫번째 'ESC'
+![My Image](Frekion2002/FunnyCamera_that_likes_you/blob/main/ESC%20한%20번%20눌렀을%20때%20메세지.jpg)
+
+- 두번째 'ESC'
+![My Image](Frekion2002/FunnyCamera_that_likes_you/blob/main/ESC%20두%20번%20눌렀을%20때%20메세지.jpg)
+
+- 세번째 'ESC'
+![My Image](Frekion2002/FunnyCamera_that_likes_you/blob/main/ESC%20세%20번%20눌렀을%20때%20메세지.jpg)
 
 
 ## 동작 방식(코드 설명)
