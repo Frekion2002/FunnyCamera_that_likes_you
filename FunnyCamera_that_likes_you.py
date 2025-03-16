@@ -16,7 +16,7 @@ record_mode = False
 cnt = 0 # 꺼지지 않는 카메라 설정
 display_message = False # 메세지 표시 여부
 message_end_time = 0 # 메세지 종료 시간 저장장
-infrared_mode = False # 적외선선 처리
+infrared_mode = False # 적외선 처리
 
 while True:
     vaild, frame = camera.read()  # 카메라에서 프레임 읽기
